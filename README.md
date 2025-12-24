@@ -1,3 +1,4 @@
 - Hi 👋, I'm Parsa307 (aka, Parsast).
 - ![Fedora](Fedora.svg) Proud Fedora Workstation (GNOME) User & FOSS Lover
 - Linus Torvalds: "I think ‘open’ is important in the sense of honesty."
+- [GitLab](https://gitlab.com/Parsast) [Codeberg](https://codeberg.org/Parsast)
