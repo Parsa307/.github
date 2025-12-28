@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://count.getloli.com/@Parsa307?name=Parsa307&theme=original-new&darkmode=auto"/>
+</div>
+
 - Hi 👋, I'm Parsa307 (aka, Parsast).
 - ![Fedora](Fedora.svg) Proud Fedora Workstation (GNOME) User & FOSS Lover
 - Linus Torvalds: "I think ‘open’ is important in the sense of honesty."
