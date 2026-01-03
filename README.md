@@ -1,5 +1,7 @@
 <div align="center">
     <img src="https://count.getloli.com/@Parsa307?name=Parsa307&theme=original-new&darkmode=auto"/>
+  <br />
+  PV (Since 2026)
 </div>
 
 - Hi 👋, I'm Parsa307 (aka, Parsast).
